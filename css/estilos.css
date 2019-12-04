@@ -5,14 +5,10 @@ body{
 
 
 }
-head{
+button{
+    color: rgb(32, 172, 20);
+    font: 1em sans-serif;
+    border-block-color: green;
 
-    color: aqua;
-}
-
-section{
-    color: skyblue;
-    text-align: left;
-    font-family: "Arial";
 
 }
