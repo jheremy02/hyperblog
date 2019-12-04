@@ -5,3 +5,14 @@ body{
 
 
 }
+head{
+
+    color: aqua;
+}
+
+section{
+    color: skyblue;
+    text-align: left;
+    font-family: "Arial";
+
+}
